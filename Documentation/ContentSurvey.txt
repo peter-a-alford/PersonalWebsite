@@ -1,0 +1,168 @@
+Content Survey
+
+1. Personal Bio (Page)
+    (Picture)
+    a. Where I come from.
+        I grew up in Renton, Washington with my family. My parents are Craig and
+        Mary Alford and I have three older brothers. I was homeschooled growing
+        up which provided me with a large amount of free time. In this time I
+        would play with my cousins out in the woods and local creek. As I grew
+        older I got into video games on the pc. During the summers I would play
+        ultimate frisbee with my friends. Throughout most of my life I attended
+        Trinity Baptist Church where most of my friends were. In my senior year
+        of high school I began to attend Bellevue College where I got the
+        equivalence of a AA degree. I learned American Sign Language while I was
+        there. After this I got my first job at QFC working in the deli. The
+        next Fall I began to attend Biola University in Los Angeles. While there
+        I participated in intramural frisbee and Residence Life. In spring 2017
+        I graduated with a BS in Computer Science and moved back to Renton.
+    b. Who I am.
+        I am first and foremost a Christian. I am currently a programmer with an
+        interest in website design. Things I am passionate about include:
+        masculinity, food, racial reconciliation, design, and Spiritual
+        Formation. I am skilled at: learning, getting to know people, and
+        listening.
+    c. Where I am going.
+        I would like to become project manager or something that combines coding
+        and a larger amount of human interaction. I want to become better at
+        listening to people and just being with them. I want to learn more about
+        the above issues through engaging with people and self study. Overall I
+        want to try to live my life with excellence.
+
+2. Work (Tabs)
+    a. Summary
+        Working on one.
+    b. Jobs
+        Software Developer Intern, Key Technologies - Jun. 6th - Jul. 22nd 2016
+            -Participated in a software development team to the benefit of those involved
+            -Learned Agile methods through observation and self study
+            -Understood object orient programming through reading and pair programming
+            -Gained a proficiency in SmallTalk through self study and use of the language
+        Supplies Representative, Contract Billing Assistant, QBSI-Xerox - Sum. 2015 and Jan. 2016
+            -Effectively navigated customer needs and manager expectations while providing excellent  customer service
+            -Maintained consistent performance while learning on the job
+            -Managed complex projects through effective communication with co-workers and management
+            -Practiced professional communication both internally and externally via telephone, email, and face to face
+        Resident Advisor, Biola University - Aug. 2016 - May 2017
+            -Productively Worked with a team to plan events for a dorm of 200+ people
+            -Provided helpful resources to students of all academic levels
+            -Effectively upheld community standards with care and compassion
+
+    c. Education
+        Bachelors of Science in Computer Science - Aug. 2014 - May 2017
+            Biola University, GPA 3.55+
+
+    d. Skills
+        Programming Languages:
+            HTML
+            CSS
+            JavaScript
+            PHP
+            UML
+            C++
+            Ruby
+            SmallTalk
+        Other:
+            Agile
+            Linux
+            Microsoft Office Suite
+            65 WPM
+            Proficient Presenter
+            ASL
+    e. Awards
+        Biola Dean's List
+            All three years
+3. Interests (Tabs)
+    a. Design
+        I really like figuring out how things are designed whether visually or
+        mechanically.
+    b. Food
+        I love food and the making of it.
+    c. Spiritual Formation
+        This is an area of personal growth that I am interested in. Mostly it
+        comes down to reading a lot of books about the subject.
+
+4. Projects (Tabs)
+    a. CloudScape
+        A meditation and Spiritual Formation application.
+
+4. Photos (Tabs)
+    a. Landscapes
+        Pictures of friends (Filler until I get real photos)
+    b. Design
+        My pillow Project (Filler until I get real photos)
+    c. CloudScape
+        Favorite Background (Filler until I get real photos)
+
+5. Library (Page)
+    a. Design
+        -None at this time
+    b. Programming
+        - "Practical Object-Oriented Desing in Ruby" ~ Sandi Metz
+        - "Unix Power Tools" ~ Shelley Powers, Jerry Peek, Tim O'Reilly & Mike Loukides
+        - "Head First Software Development" ~ Dan Pilone & Russ Miles
+    c. Spiritual Formation
+        - "In the Name of Jesus" ~ Henri Nouwen
+        - "The Return of the Prodigal Son" ~ Henri Nouwen
+        - "The Knowledge of the Holy" ~ A. W. Tozer
+        - "Delighting in the Trinity" ~ Michael Reeves
+    d. Quotes
+        "Only a man of prayer can lead others to celebration because everyone
+        who comes in contact with him realizes that he draws power from a source
+        they cannot easily locate but they know is strong and deep. The freedom
+        that gives him a certain independence is not authoritarian or distant.
+        Rather, it makes him rise above immediate needs and most urgent desires
+        or the people around him. He is deeply moved by things happening around
+        him but he does not allow himself to be crushed by them. He listens
+        attentively, speaks with the self-evident authority, but does not easily
+        get excited or nervous. In all he says and does, he provides to a vision
+        that guides life. To that vision he is obedient. It makes him distinguish
+        sharply between what is important and what is not. He is not insensitive
+        to what excites people, but evaluates their needs differently by seeing
+        them in the perspective of his vision. He is happy and content when
+        people listen to him, but he does not form cliques. He does not attach
+        himself to anybody exclusively. What he says sounds convincing and
+        obvious, but he does not force his opinion on anybody and is not
+        irritated when people do not accept his ideas or do not fulfill his will.
+        All this shows that his vision is what counts for him that he strives to
+        make it come true."
+
+                                            ~ Henri Nouwen, Creative Ministry
+
+        "God, Grant me the serenity to accept the things I cannot change, the
+        courage to change the things I can, and the wisdom to know the difference.
+        Living one day at a time, enjoying one moment at a time; accepting
+        hardship as a pathway to peace, taking as Jesus did, this sinful world as
+        it is, not as I would have it; trusting that You will make all things
+        right if I surrender to Your will; so that I may be reasonably happy in
+        this life, and supremely happy with You forever in the next Amen"
+
+                                            ~ Reinhold Niebuhr
+
+        "Calm me Lord, as you calmed the storm. Still me Lord, keep me from harm.
+        Let all the turmoil within me cease. Enfold me Lord, in your peace."
+
+                                            ~ David Adam
+
+        "For with much wisdom comes much sorrow; the more knowledge, the more
+        grief."
+
+                                            ~Ecclesiastes 1:18
+
+6. Resources (Page)
+    a. Programming
+        MySQL Cheat Sheet
+            http://cse.unl.edu/~sscott/ShowFiles/SQL/CheatSheet/SQLCheatSheet.html
+        w3schools
+            https://www.w3schools.com/html/
+        Emacs Cheat Sheet
+            https://ccrma.stanford.edu/guides/package/emacs/emacs.html
+
+    b. Design
+        Lynda.com
+    c. Food
+        tacos
+        peanut sauce
+        Garlic Bread
+    d. Spiritual Formation
+        http://graftedlife.org/esda/search/

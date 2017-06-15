@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            Photos
+        </title>
+        <link rel = "stylesheet" type = "text/css" href = "_css/main.css">
+    </head>
+
+    <body>
+        <div class="tab">
+          <button class="tablinks" onclick="changeTab(event, 'landscapes')" id="defaultOpen">Landscapes</button>
+          <button class="tablinks" onclick="changeTab(event, 'design')">Design</button>
+          <button class="tablinks" onclick="changeTab(event, 'cloudScape')">CloudScape</button>
+        </div>
+
+        <div id="landscapes" class="tabcontent">
+          <h1>Landscapes</h1>
+            <div class="gallery">
+              <a target="_blank" href="_images/brandonAndPeter.jpg">
+                <img src="_images/brandonAndPeter.jpg" width="300" height="200">
+              </a>
+            </div>
+
+            <div class="gallery">
+              <a target="_blank" href="_images/Jocey.jpg">
+                <img src="_images/Jocey.jpg" width="600" height="400">
+              </a>
+            </div>
+
+            <div class="gallery">
+              <a target="_blank" href="_images/Russa.jpg">
+                <img src="_images/Russa.jpg" width="600" height="400">
+              </a>
+            </div>
+        </div>
+
+        <div id="design" class="tabcontent">
+          <h1>Design</h1>
+          <div class="gallery">
+            <a target="_blank" href="_images/IMG_3700.jpg">
+              <img src="_images/IMG_3700.jpg" width="300" height="200">
+            </a>
+          </div>
+
+          <div class="gallery">
+            <a target="_blank" href="_images/IMG_8830.jpg">
+              <img src="_images/IMG_8830.jpg" width="600" height="400">
+            </a>
+          </div>
+
+          <div class="gallery">
+            <a target="_blank" href="_images/IMG_9998.jpg">
+              <img src="_images/IMG_9998.jpg" width="600" height="400">
+            </a>
+          </div>
+
+          <div class="gallery">
+            <a target="_blank" href="_images/IMG951047.jpg">
+              <img src="_images/IMG951047.jpg" width="300" height="200">
+            </a>
+          </div>
+
+          <div class="gallery">
+            <a target="_blank" href="_images/IMG951582.jpg">
+              <img src="_images/IMG951582.jpg" width="600" height="400">
+            </a>
+          </div>
+
+          <div class="gallery">
+            <a target="_blank" href="_images/IMG957889.jpg">
+              <img src="_images/IMG957889.jpg" width="600" height="400">
+            </a>
+          </div>
+        </div>
+
+        <div id="cloudScape" class="tabcontent">
+          <h1>CloudScape</h1>
+          <div class="gallery">
+            <a target="_blank" href="_images/5maxresdefault.jpg">
+              <img src="_images/5maxresdefault.jpg" width="600" height="400">
+            </a>
+          </div>
+        </div>
+
+        <script src="_javaScript/changeTab.js" type="text/javascript"></script>
+    </body>
+</html>
+
+<!--
+For the purpose of making image galleries
+https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery -->

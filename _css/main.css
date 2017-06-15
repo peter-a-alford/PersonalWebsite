@@ -1,0 +1,136 @@
+body {
+    font-family: Arial,sans-serif;
+    color: black;
+    font-size: 20px;
+    padding-left: 160px;
+    padding-right: 160px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-image: url("../_images/IMG_craigsPic.jpeg");
+    background-size: cover;
+}
+
+h1 {
+    font-size: 30px;
+    /*background: darkgreen;*/
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 10px;
+    margin: 0;
+}
+
+h3 {
+    text-align: right;
+    padding-right: 100px;
+}
+
+h4 {
+    text-align: right;
+    padding-right: 100px;
+    font-size: 16px
+    margin: 0;
+    padding: 10px;
+}
+
+li {
+    list-style-type: none;
+}
+
+p {
+    padding: 10px;
+    margin: 0;
+
+}
+
+div {
+    background: lightgrey;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #111111;
+}
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+/*for creating boxes next to each other.
+https://stackoverflow.com/questions/17217766/two-divs-side-by-side-fluid-display*/
