@@ -3,158 +3,120 @@
     <head>
         <meta charset="UTF-8">
         <title>
-            Work
+            Resume
         </title>
         <link rel = "stylesheet" type = "text/css" href = "_css/main.css">
     </head>
-    <body>
+    <body style="height: 100%">
+        <!-- Website Navbar -->
+        <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="work.html">Work</a></li>
+              <li><a href="interests.html">Interests</a></li>
+              <li><a href="projects.html">Projects</a></li>
+              <li><a href="photos.html">Photos</a></li>
+              <li><a href="library.html">Library</a></li>
+              <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </nav>
+        <!-- Page Title -->
+        <header>
+            <h1>Resume</h1>
+        </header>
+
+        <!-- Page Navigation -->
         <div class="tab">
           <button class="tablinks" onclick="changeTab(event, 'summary')" id="defaultOpen">Summary</button>
-          <button class="tablinks" onclick="changeTab(event, 'jobs')">Jobs</button>
+          <button class="tablinks" onclick="changeTab(event, 'workExperience')">Work Experience</button>
           <button class="tablinks" onclick="changeTab(event, 'education')">Education</button>
           <button class="tablinks" onclick="changeTab(event, 'skills')">Skills</button>
-          <button class="tablinks" onclick="changeTab(event, 'awards')">Awards</button>
+          <button class="tablinks" onclick="changeTab(event, 'achievements')">Achievements</button>
         </div>
-
+        <!-- Page Content -->
+        <!-- Summary Tab -->
         <div id="summary" class="tabcontent">
-          <h1>Summary</h1>
+          <h3>Summary</h3>
           <p>
-              Working on one.
+              Competent coder as shown by a high academic achievement at Biola University and work on
+              various personal projects. Provides excellent customer service while balancing customer
+              needs and company restrictions. Enjoys creating functional code that meets
+              standards while consistently meeting deadlines.
           </p>
         </div>
-
-        <div id="jobs" class="tabcontent">
-          <h1>Jobs</h1>
-          <ul>
-              <li>Software Developer Intern, Key Technologies - Jun. 6th - Jul. 22nd 2016
-                  <ul>
-                      <li>
-                          Participated in a software development team to the benefit of those involved
-                      </li>
-                      <li>
-                          Learned Agile methods through observation and self study
-                      </li>
-                      <li>
-                          Understood object orient programming through reading and pair programming
-                      </li>
-                      <li>
-                          Gained a proficiency in SmallTalk through self study and use of the language
-                      </li>
-                  </ul>
-              </li>
-             <li> Supplies Representative, Contract Billing Assistant, QBSI-Xerox - Sum. 2015 and Jan. 2016
+        <!-- Work Experience Tab -->
+        <div id="workExperience" class="tabcontent">
+            <h3>Work Experience</h3>
+            <h2>Software Developer Intern, Key Technologies - Jun. 6th - Jul. 22nd 2016</h2>
                 <ul>
-                    <li>
-                        Effectively navigated customer needs and manager expectations while providing excellent  customer service
-                    </li>
-                    <li>
-                        Maintained consistent performance while learning on the job
-                    </li>
-                    <li>
-                        Managed complex projects through effective communication with co-workers and management
-                    </li>
-                    <li>
-                        Practiced professional communication both internally and externally via telephone, email, and face to face
-                    </li>
+                    <li>-Participated in a software development team to the benefit of those involved</li>
+                    <li>-Learned Agile methods through observation and self study</li>
+                    <li>-Understood object orient programming through reading and pair programming</li>
+                    <li>-Gained a proficiency in SmallTalk through self study and use of the language</li>
                 </ul>
-             </li>
-             <li>Resident Advisor, Biola University - Aug. 2016 - May 2017
-                 <ul>
-                     <li>
-                         Productively Worked with a team to plan events for a dorm of 200+ people
-                     </li>
-                     <li>
-                         Provided helpful resources to students of all academic levels
-                     </li>
-                     <li>
-                         Effectively upheld community standards with care and compassion
-                     </li>
-                 </ul>
-             </li>
+            <h2>Supplies Representative, Contract Billing Assistant, QBSI-Xerox - Sum. 2015 and Jan. 2016</h2>
+            <ul>
+                <li>-Effectively navigated customer needs and manager expectations while providing excellent  customer service</li>
+                <li>-Maintained consistent performance while learning on the job</li>
+                <li>-Managed complex projects through effective communication with co-workers and management</li>
+                <li>-Practiced professional communication both internally and externally via telephone, email, and face to face</li>
+            </ul>
+             <h2>Resident Advisor, Biola University - Aug. 2016 - May 2017</h2>
+             <ul>
+                 <li>-Productively Worked with a team to plan events for a dorm of 200+ people</li>
+                 <li>-Provided helpful resources to students of all academic levels</li>
+                 <li>-Effectively upheld community standards with care and compassion</li>
+             </ul>
           </ul>
         </div>
-
+        <!-- Education Tab -->
         <div id="education" class="tabcontent">
-          <h1>Education</h1>
+          <h3>Education</h3>
+          <h2>Biola University, Aug. 2014 - May 2017</h2>
           <ul>
-              <li>Bachelors of Science in Computer Science - Aug. 2014 - May 2017
-                  <ul>
-                      <li>
-                          Biola University, GPA 3.55+
-                      </li>
-                  </ul>
-
-              </li>
+              <li>-Bachelors of Science in Computer Science</li>
+              <li>-Minor in Bible</li>
+              <li>-Cumulative GPA: 3.55, Cum Laude</li>
+              <li>-Dean's List</li>
           </ul>
         </div>
-
+        <!-- Skills Tab -->
         <div id="skills" class="tabcontent">
-          <h1>Skills</h1>
-          <ul>
-              <li>Programming Languages:
-                  <ul>
-                      <li>
-                          HTML5
-                      </li>
-                      <li>
-                          CSS3
-                      </li>
-                      <li>
-                          JavaScript
-                      </li>
-                      <li>
-                          PHP
-                      </li>
-                      <li>
-                          UML
-                      </li>
-                      <li>
-                          C++
-                      </li>
-                      <li>
-                          Ruby
-                      </li>
-                      <li>
-                          Smalltalk
-                      </li>
-                  </ul>
-              </li>
-              <li>Other:
-                <ul>
-                    <li>
-                        Agile
-                    </li>
-                    <li>
-                        Linux
-                    </li>
-                    <li>
-                        Microsoft Office Suite
-                    </li>
-                    <li>
-                        65 Words Per Minute
-                    </li>
-                    <li>
-                        Proficient at Presenting
-                    </li>
-                    <li>
-                        American Sign Language
-                    </li>
-                </ul>
-              </li>
-          </ul>
+            <h3>Skills</h3>
+            <h2>Programming Languages</h2>
+            <ul>
+                <li>-HTML5</li>
+                <li>-CSS3</li>
+                <li>-JavaScript</li>
+                <li>-PHP</li>
+                <li>-UML</li>
+                <li>-C++</li>
+                <li>-Ruby</li>
+                <li>-Smalltalk</li>
+            </ul>
+            <h2>Other</h2>
+            <ul>
+                <li>-Agile</li>
+                <li>-Linux</li>
+                <li>-Microsoft Office Suite</li>
+                <li>-65 Words Per Minute</li>
+                <li>-Proficient at Presenting</li>
+                <li>-American Sign Language</li>
+            </ul>
         </div>
-
-        <div id="awards" class="tabcontent">
-          <h1>Awards</h1>
-          <ul>
-              <li>Biola Dean's List
-                  <p>
-                      All three years
-                  </p>
-              </li>
-          </ul>
+        <!-- Achievements Tab -->
+        <div id="achievements" class="tabcontent">
+            <h3>Achievements</h3>
+            <h2>Nothing at the Moment</h2>
+            <ul>
+                <li></li>
+            </ul>
         </div>
-
+        <!-- javascript for giving the tabs functionality -->
         <script src="_javaScript/changeTab.js" type="text/javascript"></script>
+        <!-- Footer Section -->
+        <footer>
+            <p>Last Edited: 6/16/17</p>
+        </footer>
     </body>
 </html>
