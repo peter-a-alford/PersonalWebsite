@@ -105,6 +105,30 @@ li {
     list-style-type: none;
 }
 
+.col1 {
+    float: left;
+    width:300px;
+    height:300px;
+    margin-bottom: 1em;
+}
+
+.col2 {
+    float: left;
+    padding-left: 25px;
+    width:625px;
+    height:300px;
+    margin-bottom: 1em;
+}
+
+.col2 h3 {
+
+    
+}
+
+.col2 p {
+    margin: 0;
+    padding: 0;
+}
 
 /* Style the tab */
 div.tab {
@@ -140,6 +164,7 @@ div.tabcontent {
     display: none;
     margin: 0 25px;
     margin-top: 25px;
+    overflow: hidden;
 }
 
 div.gallery {
