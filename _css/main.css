@@ -24,6 +24,7 @@ body {
 }
 
 header {
+    margin-top: 50px;
     padding: 20px 25px;
     background: rgb(76,67,65);
 }
@@ -69,8 +70,10 @@ p {
 }
 
 nav {
-    width: 100%;
+    width: inherit;
     margin: 0;
+    position: fixed;
+    top: 0px;
 }
 
 nav ul {
