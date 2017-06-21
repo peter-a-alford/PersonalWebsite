@@ -172,6 +172,8 @@ Content Survey
             webtypography.net
         A Tool for Creating Color Gradients
             colorzilla.com
+        A Tool for Finding Colors for CSS
+            https://color.adobe.com/create/color-wheel/?base=2&rule=Custom&selected=1&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.17094618589685825,0.75,0.25924823510971917,0.11396412393123884,0.5,0.17283215673981278,0.22792824786247767,1,0.34566431347962556,0.05698206196561942,0.25,0.08641607836990639,0.20513542307622992,0.9,0.311097882131663&swatchOrder=0,1,2,3,4
         
     c. Food
         tacos
